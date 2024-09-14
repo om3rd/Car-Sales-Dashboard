@@ -24,17 +24,31 @@ The dataset consists of 60,000 rows of data in total and the photos of the deale
 - # Screenshots of Dashboard
 
 ![Screenshot 1](images/Screenshot%20(1157).png)
+
 ![Screenshot 1](images/Screenshot%20(1158).png)
-- **These screenshots were taken from the page named Sales by Region**
+
+**These screenshots were taken from the page named Sales by Region**
+- 
 ![Screenshot 1](images/Screenshot%20(1159).png)
+
 ![Screenshot 1](images/Screenshot%20(1160).png)
+
 ![Screenshot 1](images/Screenshot%20(1161).png)
+
 ![Screenshot 1](images/Screenshot%20(1162).png)
+
 - ---------
+
 **These screenshots were taken from the page named Sales by Brands**
+
 ![Screenshot 1](images/Screenshot%20(1163).png)
+
 ![Screenshot 1](images/Screenshot%20(1164).png)
+
 ![Screenshot 1](images/Screenshot%20(1165).png)
+
 ![Screenshot 1](images/Screenshot%20(1166).png)
+
 ![Screenshot 1](images/Screenshot%20(1168).png)
+
 ![Screenshot 1](images/Screenshot%20(1169).png)
